@@ -37,6 +37,6 @@ img {
     height: auto
 }
 
-em, strong {
+em, strong, a {
     margin: 0px;
 }
