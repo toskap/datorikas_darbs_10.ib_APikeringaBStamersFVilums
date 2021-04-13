@@ -1,0 +1,42 @@
+* {
+    margin: 50px;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 105%;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1, h2, h3, h4, h5 {
+    font-size: 125%;
+}
+
+div {
+    background-color: white;
+    box-shadow: 6px 6px 9px gray;
+    padding: 20px;
+    border: solid black 7px;
+    border-radius: 25px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 105%;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    margin-left: 100px;
+    margin-right: 100px;
+    border: solid black 7px;
+    box-shadow: 6px 6px 9px gray;
+    width: 50%;
+    height: auto
+}
+
+em, strong {
+    margin: 0px;
+}
